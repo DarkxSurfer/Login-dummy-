@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347880287326",
+    "project_id": "classseven-9edfa",
+    "storage_bucket": "classseven-9edfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347880287326:android:d7a2120a8d1201503298cf",
+        "android_client_info": {
+          "package_name": "com.example.classseven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGH_JIzCJoDW9ptGcUlCw4QJJ-aJXmdZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
